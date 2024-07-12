@@ -1,0 +1,56 @@
+body {
+    background-image: url("stadium_1024.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: Cantarell, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin: 0 auto 7px;
+    border-radius: 5px;
+}
+
+.count {
+    font-size: 50px;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+.shadow {
+    text-shadow: 1px 1px 3px #000;
+}
+
+#increment-btn {
+    background: #C6011F;
+}
+
+#save-btn {
+    background: #005A9C;
+}
+
